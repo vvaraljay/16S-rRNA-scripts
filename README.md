@@ -1,1 +1,1 @@
-# 16S-rRNA-scripts
+# Sequencing - Illumina
